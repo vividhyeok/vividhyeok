@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- Social Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/vividhyeok?label=Follow&style=for-the-badge&logo=github&color=A855F7)](https://github.com/vividhyeok)
 [![Profile Views](https://komarev.com/ghpvc/?username=vividhyeok&style=for-the-badge&color=blueviolet)](https://github.com/vividhyeok)
 
@@ -65,24 +64,11 @@ const vividhyeok = {
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Solved.ac
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vividhyeok&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vividhyeok&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vividhyeok&theme=tokyonight&hide_border=true&background=0D1117&fire=A855F7&ring=A855F7&currStreakLabel=A855F7)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vividhyeok&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=bltneworleans)](https://solved.ac/bltneworleans)
 
 </div>
 
