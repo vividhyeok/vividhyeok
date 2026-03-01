@@ -19,15 +19,9 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const vividhyeok = {
-  role: "Full-Stack Developer",
-  location: "Korea 🇰🇷",
-  interests: ["Web Development", "Clean Architecture", "Open Source"],
-  currentlyLearning: ["Cloud Infrastructure", "System Design"],
-  funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
+이 레포는 제가 필요한 것들을 만들고, 실험하고 싶은 걸 마음껏 해보는 놀이터예요.
+
+현재 꿈은 1인 개발자로 오픈소스에 기여하면서 **정보컴퓨터 교사**로 사는 것. 전공의 영향으로 **교육용 소프트웨어**와 **지식 공유 · 멘토링 · 튜터링**에 관심이 많습니다.
 
 ---
 
